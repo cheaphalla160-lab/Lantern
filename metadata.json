@@ -1,0 +1,6 @@
+{
+  "name": "CNY English Word Drop - 春节趣味英语学堂",
+  "description": "小学英语春节主题趣味教学游戏：趣味掉落点读、智能跟读评测、欢庆音效与班级排行榜，助力孩子们快乐识记Chinese New Year重点词汇！",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
